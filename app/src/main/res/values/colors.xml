@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_dynamic_neutral_variant100">#FFFFFF</color>
+    <color name="Lavender">#d3d3ff</color>
+    <color name="purple">#7676FF</color>
+    <color name="DarkViolet">#9400d3</color>
+    <color name="DarkSlateBlue">#483d8b</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="lightPurple">#CBC3E3</color>
+
+</resources>
