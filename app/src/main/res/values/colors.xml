@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_dynamic_neutral_variant100">#FFFFFF</color>
+    <color name="Lavender">#d3d3ff</color>
+    <color name="purple">#7676FF</color>
+    <color name="DarkViolet">#9400d3</color>
+    <color name="DarkSlateBlue">#483d8b</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="lightPurple">#CBC3E3</color>
+    <color name="progressBarColor">#FF6200EE</color>
+    <color name="DeepPurple">#6A0DAD</color>
+    <color name="gray">#dddddd</color>
+    <color name="rose">#facedb</color>
+    <color name="blue">#a6daff</color>
+    <color name="green">#cef2ce</color>
+    <color name="red">#fca5ae</color>
+    <color name="orange">#feda9c</color>
+    <color name="purple1">#eedaff</color>
+    <color name="yellow">#fffbb0</color>
+
+    <color name="lines">#c5c5c5</color>
+    <color name="main">#7676FF</color>
+    <color name="background">#e5e5e5</color>
+    <color name="transparent">#00000000</color>
+
+
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Education</string>
+    <string name="books">Books</string>
+    <string name="quality_education">Quality Education</string>
+    <string name="select_color">Pick a color</string>
+
+    <string-array name="color_names">
+        <item>Gray</item>
+        <item>Rose</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+    </string-array>
+
+</resources>
